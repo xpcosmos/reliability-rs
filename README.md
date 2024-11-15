@@ -1,8 +1,9 @@
 # Exercises of Statistical Methods for Repairable Systems
 
-**Table of Contents**
+## Table of Contents
 
 - [Exercises of Statistical Methods for Repairable Systems](#exercises-of-statistical-methods-for-repairable-systems)
+  - [Table of Contents](#table-of-contents)
   - [Usage](#usage)
   - [Author](#author)
   - [License](#license)
